@@ -1,0 +1,14 @@
+pageObjects\AccountregiPage.class
+pageObjects\Basepage.class
+testCases\Tc_accReg.class
+pageObjects\Loginpage.class
+pageObjects\HomePage.class
+pageObjects\Myaccout.class
+testCases\Tc3_loginDDT.class
+utilities\ExcelUtility.class
+testBase\BaseClass.class
+pageObjects\Login_Orange.class
+testCases\BaseClass.class
+testCases\Tc2_login.class
+utilities\ExtentReportManager.class
+utilities\DataProviders.class

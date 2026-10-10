@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-10T23:31:25 IST" name="Suite" finished-at="2026-10-10T23:31:33 IST" duration-ms="7523">
+    <groups>
+      <group name="sanity">
+        <method signature="Tc2_login.verify()[pri:0, instance:testCases.Tc2_login@223d2c72]" name="verify" class="testCases.Tc2_login"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="Tc2_login.verify()[pri:0, instance:testCases.Tc2_login@223d2c72]" name="verify" class="testCases.Tc2_login"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2026-10-10T23:31:25 IST" name="Test" finished-at="2026-10-10T23:31:33 IST" duration-ms="7523">
+      <class name="testCases.Tc2_login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Tc2_login@223d2c72]" started-at="2026-10-10T23:31:25 IST" name="setup" finished-at="2026-10-10T23:31:27 IST" duration-ms="1901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify()[pri:0, instance:testCases.Tc2_login@223d2c72]" started-at="2026-10-10T23:31:27 IST" name="verify" finished-at="2026-10-10T23:31:33 IST" duration-ms="5226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.Tc2_login@223d2c72]" started-at="2026-10-10T23:31:33 IST" name="teardown" finished-at="2026-10-10T23:31:33 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.Tc2_login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
