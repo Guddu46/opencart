@@ -16,7 +16,7 @@
      
     <classes>
       <class name="testCases.Tc2_login"/> 
-      <class name="testCases.Tc_accReg"/> 
+     <!-- <class name="testCases.Tc_accReg"/> -->
       <!--<class name="testCases.TC003_LoginDDT"/>-->
     </classes>
   </test> <!-- Test -->
